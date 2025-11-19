@@ -1,5 +1,5 @@
 
-# **Speech-Corpus-Khowar**
+# **Aumation of Speech-Corpus-Khowar (Wav2Vec Friendly)**
 
 Tools for downloading speech from YouTube, converting it to WAV, and slicing it into 3–8 second chunks suitable for **Wav2Vec2** and other self-supervised speech models.
 Designed for **low-resource languages** where building datasets is difficult.
