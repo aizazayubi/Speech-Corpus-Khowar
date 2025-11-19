@@ -1,6 +1,3 @@
-Here’s a clean, professional **README.md** you can paste directly into your GitHub repo.
-
----
 
 # **Speech-Corpus-Khowar**
 
