@@ -39,7 +39,8 @@ Dependencies:
 ```
 Speech-Corpus-Khowar/
 ├── utils.py
-├── example_links.csv
+├── main.py
+├── urls.csv
 ├── requirements.txt
 └── README.md
 ```
