@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.egg-info/
+*.egg
+
+# Audio / large files
+tmp/
+wav_chunks/
+output_chunks/
+
+# OS
+.DS_Store
+Thumbs.db
