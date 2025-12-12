@@ -50,7 +50,7 @@ def convert_to_wav(input_path: str, output_path: str) -> str:
 
 def split_by_silence_and_chunk(wav_path: str,
                                out_dir: str,
-                               min_silence_len: int = 450,
+                               min_silence_len: int = 400,
                                silence_thresh_delta: int = 14,
                                keep_silence: int = 120,
                                min_chunk_s: float = 3.0,
